@@ -37,6 +37,11 @@ Our mission is to **bridge the digital divide** by leveraging modern technologie
 
 🔗 **[Get Involved]((https://smarttech-africa.netlify.app))** | ✉️ **Contact Us:** [hello@smarttechafrica.com](mailto:smarttechafrica@gmail.com)  
 
+## 📢 Join Our WhatsApp Community  
+Stay updated, collaborate, and connect with like-minded developers!  
+
+👉 [Join Our WhatsApp Group]((https://whatsapp.com/channel/0029Vb3rbjyElagmIKSaq72d))
+
 ---
 
 ## 📱 Connect with Us  
