@@ -35,13 +35,13 @@ Our mission is to **bridge the digital divide** by leveraging modern technologie
 ## 👥 Join Us  
 💼 **Looking to collaborate?** We welcome developers, designers, and tech enthusiasts to join us in shaping the future of African technology.  
 
-🔗 **[Get Involved](https://github.com/SmartTechAfrica)** | ✉️ **Contact Us:** [hello@smarttechafrica.com](mailto:hello@smarttechafrica.com)  
+🔗 **[Get Involved]((https://smarttech-africa.netlify.app))** | ✉️ **Contact Us:** [hello@smarttechafrica.com](mailto:smarttechafrica@gmail.com)  
 
 ---
 
 ## 📱 Connect with Us  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SmartTechAfrica)  
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.smarttechafrica.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Smart-Tech-Africa))  
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smarttech-africa.netlify.app)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/smarttechafrica)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/smarttechafrica)  
 
