@@ -40,12 +40,12 @@ Our mission is to **bridge the digital divide** by leveraging modern technologie
 ## 📢 Join Our WhatsApp Community  
 Stay updated, collaborate, and connect with like-minded developers!  
 
-👉 [Join Our WhatsApp Group]((https://whatsapp.com/channel/0029Vb3rbjyElagmIKSaq72d))
+👉 [Join Our WhatsApp Group](https://whatsapp.com/channel/0029Vb3rbjyElagmIKSaq72d)
 
 ---
 
 ## 📱 Connect with Us  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Smart-Tech-Africa))  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smart-Tech-Africa)  
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://smarttech-africa.netlify.app)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/smarttechafrica)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/smarttechafrica)  
